@@ -1,2 +1,2 @@
 # GameBox
-The GameBox is a selection of 3 various fun mini-games combined together in one program.
+The GameBox is a selection of 3 various fun mini-games combined together in one program. Utilizing both the minim audio library, and image file reading, the GameBox is interactive, easy to understand, and visually appealing. Additionally, it is quite advanced at the time it was created. As the GameBox was a project designed for the culminating activity of a Grade 12 Computer Science course.
